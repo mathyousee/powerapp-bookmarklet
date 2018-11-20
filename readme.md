@@ -8,7 +8,6 @@ The solution is a "bookmarklet" which is literally just a bookmark in the browse
 ## Manifest
 
 - **bookmarklet.js** - the javascript that is used in the URL portion of the bookmark using the xrm.page object
-- **CanvasPowerApp.zip** - an example function to parse the parameters passed to the app when the first screen of thecanvas PowerApp loads
 
 ## Usage
 There are two main steps in using this:
