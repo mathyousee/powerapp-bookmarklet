@@ -51,7 +51,7 @@ If you want to contribute reach out to me on LinkedIn.
 
 # Legal
 
-All contents are provided under the MIT License.
+All contents are provided under the MIT License. See LICENSE.txt for more information.
 
 All trademarks, service marks, trade names, and product names mentioned in this project and supporting documentation are the property of their respective owners.
 
